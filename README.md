@@ -13,7 +13,6 @@ This is a beginner-friendly **PHP + MySQL** blog application that allows users t
 ## 🚀 Live Demo
 
 🌐 [Click here to view the live project](http://localhost/blogpost/login.php)  
-_(Replace with your actual URL if hosted online)_
 
 ---
 
